@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juro</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juro0&label=Profile%20views&color=128971&style=flat" alt="profile views not aviaible" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juro0&label=Profile%20views&color=19B99A&style=flat" alt="profile views not aviaible" /> </p>
 
 - 🔭 I’m currently working on [REESUME](https://reesume.github.io/)
 
