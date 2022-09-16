@@ -1,36 +1,29 @@
 <h1 align="center">Hi 👋, I'm Juro</h1>
-<h3 align="center">just a developer from Italy!</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juro0&label=Profile%20views&color=128971&style=flat" alt="profile views not aviaible" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juro0&label=Profile%20views&color=0e75b6&style=flat" alt="juro0" /> </p>
+- 🔭 I’m currently working on [REESUME](https://reesume.github.io/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juro0" alt="juro0" /></a> </p>
+- 🌱 I’m currently learning **react.js**
 
-<p align="left"> <a href="https://twitter.com/juri_gemignani" target="blank"><img src="https://img.shields.io/twitter/follow/juri_gemignani?logo=twitter&style=for-the-badge" alt="juri_gemignani" /></a> </p>
+- 👨‍💻 All of my projects are available on [my github](https://github.com/juro0/)
 
-- 🔭 I’m currently working on [INDEX](https://github.com/index-studio)
+- 📫 How to reach me use **/tp Juro** (jk, watch out [this](https://juro0.github.io/links))
 
-- 🌱 I’m currently learning **Java and Javascript**
+___
 
-- 👨‍💻 All of my projects are available at [https://juro0.github.io/](https://juro0.github.io/)
-
-- 💬 Ask me about **Nothing!**
-
-- 📫 How to reach me **use /tp Juro (use my email: jurigemignani7@gmail.com)**
-
-- ⚡ Fun fact **I'm 15 yo..**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/juri_gemignani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juri_gemignani" height="30" width="40" /></a>
 <a href="https://instagram.com/juri_gemignani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juri_gemignani" height="30" width="40" /></a>
-<a href="https://discord.gg/juro#1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juro#1710" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/770590815088803870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juro#1710" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juro0&show_icons=true&locale=en&layout=compact" alt="juro0" /></p>
+<h3 align="center">stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juro0&show_icons=true&locale=en" alt="juro0" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juro0&show_icons=true&locale=en&layout=compact" alt="juro0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juro0&" alt="juro0" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juro0&show_icons=true&locale=en" alt="juro0" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juro0&" alt="juro0" /></p>
