@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Juro</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juro0&label=Profile%20views&color=19B99A&style=flat" alt="profile views not aviaible" /> </p>
-
-- 🔭 I’m currently working on [REESUME](https://reesume.github.io/)
-
-- 🌱 I’m currently learning **react.js**
-
-- 👨‍💻 All of my projects are available on [my github](https://github.com/juro0/)
-
-- 📫 How to reach me use **/tp Juro** (jk, watch out [this](https://juro0.github.io/links))
-
-___
-
-<h3 align="center">connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/juri_gemignani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juri_gemignani" height="30" width="40" /></a>
-<a href="https://instagram.com/juri_gemignani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juri_gemignani" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me/770590815088803870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juro#1710" height="30" width="40" /></a>
-</p>
-
-___
-
-<h3 align="center">stats:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juro0&show_icons=true&locale=en&layout=compact" alt="juro0" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juro0&show_icons=true&locale=en" alt="juro0" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juro0&" alt="juro0" /></p>
+<p align="center"> 
+	<img src="https://github.com/Juro0/Juro0.github.io/blob/main/assets/img/linear.png?raw=true" height="50px">
+ </p>
+ <br>
+ 
+**Hi 👋, I'm Juro, a 16yo who loves programming**
+#
+- 🔭 I'm actually working on [exipom](#exipom)
+- 🌱 I'm currently learning js and jquery for frontend development
+- 📫 you can contact me by [email](mailto:jurigemignani7@gmail.com) or using the form on [my site](https://juro0.github.io#contacts)
+# projects and repo
+## exipom
+- html, css, javascript
+- a simple pomodoro timer with customizable UI
+- v1.0.0 - currently working on it
+## juro0
+- html, css, javascript
+- my personal site with a simple portfolio and a contact page
+- v1.0.0
+## tictactoe
+- html, css, javascript
+- a simple tictactoe site for my brothers <3
+- v1.0.0
+## juro0 links
+- html, css, javascript
+- personal site with links to my socials, linked to my business card
+- v2.0.0 (1.0.0 not avaible)
+## doItWorst
+- html, css, javascript
+- a collection of redesigns and remake of existing websites
+## nob
+- html, css, javascript
+- site for NOB, a local bar
+## crazycalc
+- python
+- just a normal calculator, only for sums. not responsible for damage to your CPU
+## roulette
+- python
+- an easy french-roulette for playing with friends
+- v1.0.0
+## password generator
+- python
+- a password generator with a pretty nice command-line user interface
+- v1.0.0
+## jSpam
+- python
+- spam a message of your choice on any platform
+- that's my first public program, this sucks
