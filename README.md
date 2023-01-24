@@ -8,7 +8,7 @@
 - 🔭 I'm actually working on [exipom](#exipom)
 - 🌱 I'm currently learning js and jquery for frontend development
 - 📫 you can contact me by [email](mailto:jurigemignani7@gmail.com) or using the form on [my site](https://juro0.github.io#contacts)
-# projects and repo
+<h1 align="center">projects and repo</h1>
 ## exipom
 - html, css, javascript
 - a simple pomodoro timer with customizable UI
@@ -31,18 +31,3 @@
 ## nob
 - html, css, javascript
 - site for NOB, a local bar
-## crazycalc
-- python
-- just a normal calculator, only for sums. not responsible for damage to your CPU
-## roulette
-- python
-- an easy french-roulette for playing with friends
-- v1.0.0
-## password generator
-- python
-- a password generator with a pretty nice command-line user interface
-- v1.0.0
-## jSpam
-- python
-- spam a message of your choice on any platform
-- that's my first public program, this sucks
