@@ -16,6 +16,11 @@
 - a simple pomodoro timer with customizable UI
 - v1.0.0 - currently working on it
 
+## simon game
+- html, css, javascript
+- an online rappresentation of the old simon game
+- v1.0.0
+
 ## juro0
 - html, css, javascript
 - my personal site with a simple portfolio and a contact page
@@ -37,4 +42,4 @@
 
 ## nob
 - html, css, javascript
-- site for NOB, a local bar
+- site for NOB, a local activity
