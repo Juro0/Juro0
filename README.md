@@ -29,7 +29,7 @@
 ## tictactoe
 - html, css, javascript
 - a simple tictactoe site for my brothers <3
-- private beta (not public, currently working on it)
+- beta - currently working on it
 
 ## juro0 links
 - html, css, javascript
