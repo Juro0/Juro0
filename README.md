@@ -11,10 +11,15 @@
 
 <h1 align="center">projects and repo</h1>
 
+## moodmirror
+- html, css, javascript
+- a simple site for daily mood tracking with statistics
+- v1.0.0
+
 ## exipom
 - html, css, javascript
 - a simple pomodoro timer with customizable UI
-- v1.0.0 - currently working on it
+- v1.1.0
 
 ## simon game
 - html, css, javascript
