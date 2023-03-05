@@ -48,3 +48,4 @@
 ## nob
 - html, css, javascript
 - site for NOB, a local activity
+- v1.1.0 (1.0.0 not avaible)
