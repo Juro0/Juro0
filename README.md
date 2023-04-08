@@ -5,47 +5,6 @@
  
 **Hi 👋, I'm Juro, a 16yo who loves programming**
 #
-- 🔭 I'm actually working on [exipom](#exipom)
+- 🔭 I'm actually working on [exipom](https://juro0.github.io/exipom)
 - 🌱 I'm currently learning js and jquery for frontend development
-- 📫 you can contact me by [email](mailto:jurigemignani7@gmail.com) or using the form on [my site](https://juro0.github.io#contacts)
-
-<h1 align="center">projects and repo</h1>
-
-## moodmirror
-- html, css, javascript
-- a simple site for daily mood tracking with statistics
-- v1.0.0
-
-## exipom
-- html, css, javascript
-- a simple pomodoro timer with customizable UI
-- v1.1.0
-
-## simon game
-- html, css, javascript
-- an online rappresentation of the old simon game
-- v1.0.0
-
-## juro0
-- html, css, javascript
-- my personal site with a simple portfolio and a contact page
-- v1.0.0
-
-## tictactoe
-- html, css, javascript
-- a simple tictactoe site for my brothers <3
-- beta - currently working on it
-
-## juro0 links
-- html, css, javascript
-- personal site with links to my socials, linked to my business card
-- v2.0.0 (1.0.0 not avaible)
-
-## doItWorst
-- html, css, javascript
-- a collection of redesigns and remake of existing websites
-
-## nob
-- html, css, javascript
-- site for NOB, a local activity
-- v1.1.0 (1.0.0 not avaible)
+- 📫 you can contact me by [email](mailto:jurigemignani7+work@gmail.com) or using the form on [my site](https://juro0.github.io#contacts)
