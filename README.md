@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img src="https://github.com/Juro0/Juro0.github.io/blob/main/assets/img/logotype.png?raw=true" height="50px">
+	<img src="https://github.com/Juro0/Juro0.github.io/blob/main/assets/logotype.png?raw=true" height="50px">
  </p>
  <br>
  
