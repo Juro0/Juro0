@@ -4,4 +4,4 @@
 - 🌱 I'm currently learning Flask and sqlite for back-end development, but i wanna start to study node.js as well
 - 📫 you can contact me by [email](mailto:jurigemignani7@gmail.com)
 
-**A lot of sites completely projected by me coming soon, stay tuned!**
+**🦆 A lot of sites completely projected by me coming soon, stay tuned!**
