@@ -1,5 +1,5 @@
-# 💫 Juri Gemignani:
-- 🔭 I'm currently working on CAPS
+# 💫 Juri Gemignani
+- 🔭 I'm currently working on [CAPS](https://capsita.it/)
 - 🌱 I'm currently learning Flask for back-end development
 - 📫 you can contact me via email or telegram
 
