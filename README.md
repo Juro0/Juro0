@@ -1,3 +1,3 @@
-- 🔭 I'm currently working on [CAPS](https://capsita.it/)
-- 🌱 I'm currently improving my web development skills
-- 📫 You can contact me via (email)[mailto:jurigemignani7@gmail.com] or [telegram](https://t.me/juri_gemignani)
+- 🔭 I'm currently working on [Prometheon](https://prometheon.it/), developing a website named [CAPS](https://capsita.it/).
+- 🌱 I'm currently improving my web development skills, learning django and other back-end related stuff.
+- 📫 You can contact me via [email](mailto:jurigemignani7@gmail.com).
